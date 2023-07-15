@@ -1,4 +1,4 @@
-- 👋 Hi there!
+- <em>👋 Hi there!</em>
 -  I’m @AngelMRC, an Electronic Engineer who is rencetly starting to program with Python.
 -  The portfolio I've made was using Python, Flask and of course using HTML and CSS.
 -  But I'm not only focusing the knowledge that I have acquired with python for web development but also focusing on the area of Data Analysis.
